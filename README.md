@@ -100,7 +100,7 @@ credit-risk-prediction/
 ## How to Run
 
 ### 1. Clone the repository
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/tanvirahmed437/credit-risk-prediction
 cd credit-risk-prediction
 
 ### 2. Install the required libraries
